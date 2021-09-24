@@ -3,6 +3,7 @@ I have implemented sentiment analysis using the python library called nltk.
 ## Specifications
 First, I implemented the stop words removal technique in order to remove the most common occurring words which do not contribute much to the sentiment analysis.
 After that, I used SentimentIntensityAnalyser to check the degree of positiveness and negativeness in  comments. But most of the comments turned out to be neutral.
+
 ![](https://github.com/shaurysrivastav27/Pocket-aces-assignment/blob/master/TASK-1%20Video%20Comparision/plots/before_emoji.png)
 
 This problem was mainly due to :
